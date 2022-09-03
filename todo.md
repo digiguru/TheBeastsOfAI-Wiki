@@ -2,7 +2,7 @@
 
 This to document
 
-- [-] Create the basic website
+- [ ] Create the basic website
   - [x] Hosting
   - [ ] Setup basic directory structure
   - [ ] Tell people what it is 
