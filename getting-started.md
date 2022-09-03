@@ -2,7 +2,7 @@
 
 Welcome to your new foam workspace, let's get you started.
 
-> if you are already familiar with Foam and don't need help, just remove the `docs` folder for a clean repo.
+> if you are already familiar with Foam and don't need help, just remove the `guide` folder for a clean repo.
 
 Let's go through this to set up your repo:
 

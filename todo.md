@@ -1,6 +1,6 @@
 # Todo
 
-This to document
+All the things we need to do
 
 - [ ] Create the basic website
   - [x] Hosting
