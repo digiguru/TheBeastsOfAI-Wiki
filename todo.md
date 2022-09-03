@@ -2,7 +2,10 @@
 
 This to document
 
-- [x] Getting started
+- [-] Create the basic website
+  - [x] Hosting
+  - [ ] Setup basic directory structure
+  - [ ] Tell people what it is 
 - [ ] The Beasts of AI Charter
 - [ ] Get user settings
 - [ ] Interesting Art-ifacts
