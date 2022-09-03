@@ -1,4 +1,4 @@
-<img src="attachments/full-logo.png" width=100 align="left">
+<img src="attachments/Full-logo.png" width=100 align="left">
 
 # Beasts of AI Wiki
 
