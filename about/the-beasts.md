@@ -12,5 +12,5 @@ We are known as The Beasts of AI
 
 Inspiration areas for the beast include the whole of eveything that has come before, but notably:
 
- * [[inspiration/pop-surrealism]]
+ * [Pop Surrealism / Lowbrow](inspiration/pop-surrealism.md)
 
