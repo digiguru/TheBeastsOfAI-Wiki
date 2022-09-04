@@ -10,7 +10,7 @@ This can be edited on [Github](https://github.com/digiguru/TheBeastsOfAI-Wiki) a
 
 Here's a few areas to get started.
 
-- [[about/the-beasts]]
+- [[about/the-beasts.md]]
 - [todo](./todo.md) - a place to keep track of things to do
 - [inbox](./inbox.md) - a place to write down quick notes to be categorized later
 - [getting-started](./getting-started.md) - learn how to use your Foam workspace (You'll want to download VS Code)
